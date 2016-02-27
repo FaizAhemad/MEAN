@@ -1,2 +1,2 @@
-# A MEAN stack example of flappy news
+# A MEAN stack example
 
